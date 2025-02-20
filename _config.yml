@@ -20,7 +20,7 @@ description: "This blog contains thoughts and coffee, you have been warned" # Th
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
