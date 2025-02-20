@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi, my name is Fenkett aka Feen and my fursona is a brown and white dog, nothing too complex here.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Keep an eye out for future content.
